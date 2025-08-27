@@ -12,7 +12,7 @@
 [![Express.js](https://img.shields.io/badge/Express.js-4.19.2-000000?style=flat&logo=express)](https://expressjs.com/)
 [![License](https://img.shields.io/badge/License-ISC-green?style=flat)](LICENSE)
 
-[🚀 Live Demo](#) • [📖 Documentation](#) • [🐛 Report Bug](#) • [💡 Request Feature](#)
+
 
 </div>
 
