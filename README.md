@@ -27,10 +27,6 @@
 - [🚀 Quick Start](#-quick-start)
 - [📱 User Guide](#-user-guide)
 - [👨‍💻 Developer Guide](#-developer-guide)
-- [🔧 API Documentation](#-api-documentation)
-- [🎨 UI Components](#-ui-components)
-- [🔒 Security](#-security)
-- [🚀 Deployment](#-deployment)
 - [🤝 Contributing](#-contributing)
 - [📄 License](#-license)
 
@@ -647,5 +643,24 @@ npm --version
 npm install -g nodemon
 npm install -g concurrently
 ```
+
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!  
+Feel free to check the [issues page](../../issues) if you would like to contribute.
+
+To contribute:
+1. Fork the repository
+2. Create a new branch (`git checkout -b feature/YourFeature`)
+3. Commit your changes (`git commit -m 'Add some feature'`)
+4. Push to the branch (`git push origin feature/YourFeature`)
+5. Open a Pull Request 🎉
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License** – see the [LICENSE](./LICENSE) file for details
 
 
